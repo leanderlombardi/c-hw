@@ -4,6 +4,7 @@ sudo apt-get upgrade -y
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt-get install gcc -y
+clear
 echo
 echo
 echo
